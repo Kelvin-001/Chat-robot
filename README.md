@@ -1,5 +1,5 @@
 # Chat-robot
-运行环境：
+### 运行环境：
 
     python3.7
 
@@ -9,7 +9,7 @@
 
     Anaconda
 
-###使用方法：（默认已安装好python3.7）
+### 使用方法：（默认已安装好python3.7）
 #### 1. 安装Anaconda并下载实验需要的python包：jieba/sklearn/nltk/pytorch...（也可在cmd或linux终端中下载python包并运行）
 ① 进入Anaconda Prompt(anaconda3)终端界面
 
