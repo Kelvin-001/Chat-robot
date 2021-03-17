@@ -1,8 +1,12 @@
 # Chat-robot
 运行环境：
+
 python3.7
+
 pytorch 1.1/1.2
+
 Windows/Linux
+
 Anaconda
 
 使用方法：
